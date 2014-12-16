@@ -1,7 +1,11 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Description: 
+
+A basic rails app without Javascript files, bundle install, or gem files should have been created. 
+
+
+------------------------------
 
 Things you may want to cover:
 
